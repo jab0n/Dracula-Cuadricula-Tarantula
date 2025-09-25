@@ -1,5 +1,8 @@
 package com.example.courses
 
+//Hola soy homero chino
+//Soy como homero pero homero chino
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
